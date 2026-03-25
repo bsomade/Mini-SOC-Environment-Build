@@ -13,7 +13,7 @@ The Mini SOC Environment Build is aimed at building a security operations center
 ### Tools Used
 
 - Elastic SIEM for log ingestion and analysis.
-- Jira ticketing system for workflow manaagement and SIEM integration.
+- Jira ticketing system for workflow management and SIEM integration.
 - Atomic Red Team to test and validate detections.
 
 ## Steps
