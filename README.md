@@ -6,9 +6,8 @@ The Mini SOC Environment Build is aimed at building a security operations center
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Ability to generate and recognize attack signatures and patterns.
-- Research relevant attack vectors and develop detections to respond to emerging threats.
+- Advanced understanding of SIEM concepts, configuring ticketing systems, and integrating relevant applications.
+- Ability to identify IOCs, research relevant attack vectors, and develop detections to respond to emerging threats.
 
 ### Tools Used
 
