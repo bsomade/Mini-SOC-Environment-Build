@@ -17,7 +17,5 @@ The Mini SOC Environment Build is aimed at building a security operations center
 - Used Atomics from Atomic Red Team to test and validate detections.
 
 ## Steps
-1) Configure customer ticketing system by managing workflow diagram to respond to alerts. <div>
-    <img src="https://imgur.com/a/DwvTZHo" />
-</div>
+1) Configure customer ticketing system by managing workflow diagram to respond to alerts. <blockquote class="imgur-embed-pub" lang="en" data-id="a/DwvTZHo"  ><a href="//imgur.com/a/DwvTZHo">Ticket Workflow with Jira</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 2)  
